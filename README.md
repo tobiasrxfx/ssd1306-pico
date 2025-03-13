@@ -26,7 +26,7 @@ with the BitDogLab board.
 Clone or download this repository and add the library to your project:
 
 ```sh
- git clone <repository-url>
+ git clone https://github.com/tobiasrxfx/ssd1306-pico
 ```
 
 Include the library in your project:
